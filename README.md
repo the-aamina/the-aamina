@@ -41,7 +41,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="left">
-<img src="./dolph.png" width="170" align="left">
+<img src="./dolphin.png" width="170" align="left">
 
 Hello! I'm <b>Aamina</b>, a Software Engineering Student passionate about technology,
 programming and building creative projects.
