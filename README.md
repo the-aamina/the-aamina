@@ -54,3 +54,12 @@ and turning ideas into real projects.
 </p>
 
 <br clear="both">
+<h2 align="center">Hobbies & Goals</h2>
+
+<div align="center">
+
+Coding • Exploring New Technologies • Learning • Problem Solving<br>
+Continuously improving my programming skills and building
+meaningful projects while growing as a Software Engineer.
+
+</div>
