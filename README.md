@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://github.com/the-aamina">
-<img src="https://img.shields.io/badge/GitHub-123B5D?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-123B5D?style=for-the-badge&logo=github&logoColor=white" >
 </a>
 
 <a href="YOUR_LINKEDIN">
@@ -33,31 +33,17 @@
 ---
 <h2 align="center">About Me</h2>
 
-<table>
-<tr>
-<td width="40%" align="center">
+<p align="left">
+<img src="./dolphin.png" width="280" align="left">
 
-<img src="./assets/about-me.png" width="280">
-
-</td>
-
-<td width="60%" align="left">
-
-### Hello!
-
-I'm **Aamina**, a student passionate about technology,
-programming, and building creative projects.
-
-I'm currently learning and improving my skills in:
-
-**Web Development**  
-**JavaScript**  
-**HTML & CSS**  
-**Git & GitHub**
-
+<br>
+Hello!I'm <b>Aamina</b>, a Software Engineering Student passionate about technology,
+programming and building creative projects.
+I'm currently learning and improving my skills in<b>Web Development,JavaScript,
+HTML & CSS, Git & GitHub.</b>
+<br>
 I enjoy learning new technologies, solving problems,
 and turning ideas into real projects.
+</p>
 
-</td>
-</tr>
-</table>
+<br clear="both">
