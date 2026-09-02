@@ -4,7 +4,7 @@
 
 </div>
 <div align="center">
-
+<br>
 <a href="https://github.com/the-aamina">
 <img src="https://img.shields.io/badge/GITHUB-123B5D?style=for-the-badge&logo=github&logoColor=white">
 </a>
@@ -32,8 +32,10 @@
 
 </div>
 <h2 align="center">Statistics</h2>
+
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-aamina" width="95%">
+
+<img src="https://streak-stats.demolab.com/?user=the-aamina&background=0D1117&border=123B5D&stroke=123B5D&ring=2496D2&fire=38BDF8&currStreakLabel=2496D2&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B8C7D9">
 
 </div>
 <h2 align="center">About Me</h2>
