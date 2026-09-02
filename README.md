@@ -43,7 +43,6 @@
 <p align="left">
 <img src="./dolphin.png" width="240" align="left">
 
-<br>
 Hello! I'm <b>Aamina</b>, a Software Engineering Student passionate about technology,
 programming and building creative projects.
 I'm currently learning and improving my skills in<b> Web Development,JavaScript,
