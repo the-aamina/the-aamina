@@ -31,15 +31,20 @@
 <img src="https://img.shields.io/badge/CSS3-123B5D?style=for-the-badge&logo=css3&logoColor=white">
 
 </div>
+<h2 align="center">Statistics</h2>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-aamina" width="95%">
+
+</div>
 <h2 align="center">About Me</h2>
 
 <p align="left">
 <img src="./dolphin.png" width="280" align="left">
 
 <br>
-Hello!I'm <b>Aamina</b>, a Software Engineering Student passionate about technology,
+Hello! I'm <b>Aamina</b>, a Software Engineering Student passionate about technology,
 programming and building creative projects.
-I'm currently learning and improving my skills in<b>Web Development,JavaScript,
+I'm currently learning and improving my skills in<b> Web Development,JavaScript,
 HTML & CSS, Git & GitHub.</b>
 <br>
 I enjoy learning new technologies, solving problems,
