@@ -31,65 +31,33 @@
 
 </div>
 ---
+<h2 align="center">About Me</h2>
 
-<h2 align="center">Statistics</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-aamina&theme=tokyo-night" width="95%">
-
-</div>
-
----
-
-<h2 align="center">👩‍💻 About Me</h2>
-
-<div align="center">
+<table>
+<tr>
+<td width="40%" align="center">
 
 <img src="./assets/about-me.png" width="280">
 
-### Hello! 👋
+</td>
+
+<td width="60%" align="left">
+
+### Hello!
 
 I'm **Aamina**, a student passionate about technology,
-programming and building creative projects.
+programming, and building creative projects.
 
 I'm currently learning and improving my skills in:
 
-💻 Web Development  
-🌐 JavaScript  
-🎨 HTML & CSS  
-🐙 Git & GitHub  
+**Web Development**  
+**JavaScript**  
+**HTML & CSS**  
+**Git & GitHub**
 
 I enjoy learning new technologies, solving problems,
 and turning ideas into real projects.
 
-</div>
-
----
-
-<h2 align="center">🎯 Hobbies & Goals</h2>
-
-<div align="center">
-
-> **"Keep learning. Keep building. Keep growing."**
-
-### 🚀 My Goals
-
-🌱 Learn new technologies  
-💻 Build interesting projects  
-📚 Improve my programming skills  
-🐙 Become better at Git & GitHub  
-🚀 Work on real-world applications  
-✨ Keep growing as a developer  
-
-</div>
-
----
-
-<div align="center">
-
-### 💙 Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=the-aamina&label=Profile%20Views&color=2496D2&style=flat" />
-
-</div>
+</td>
+</tr>
+</table>
