@@ -54,7 +54,7 @@ and turning ideas into real projects.
 
 <br clear="both">
 <h2 align="center">Hobbies & Goals</h2>
-<p align="left">
+<p align="center">
 <img src="./flower.png" width="170" align="right">
 Coding • Exploring New Technologies • Learning • Problem Solving<br>
 Continuously improving my programming skills and building
